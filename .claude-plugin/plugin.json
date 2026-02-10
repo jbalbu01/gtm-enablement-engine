@@ -1,0 +1,8 @@
+{
+  "name": "sales-enablement",
+  "version": "2.0.0",
+  "description": "A compounding GTM enablement engine — battle cards, deal qualification, coaching, pipeline intelligence, and self-healing content management. Learns from every deal and gets smarter over time.",
+  "author": {
+    "name": "Jose Balbuena"
+  }
+}
